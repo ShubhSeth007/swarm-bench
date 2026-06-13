@@ -81,7 +81,7 @@ swarm_bench/
 
 ### Local (Python)
 ```bash
-git clone https://github.com/your-username/swarm-bench.git
+git clone https://github.com/ShubhSeth007/swarm-bench.git
 cd swarm-bench
 pip install -r requirements.txt
 streamlit run app.py
