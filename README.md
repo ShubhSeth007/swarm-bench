@@ -17,7 +17,7 @@ SwarmBench is a modular evaluation framework for testing the analytical, safety,
 
 ## 🚀 Live Demo
 
-**👉 [Launch SwarmBench on Streamlit]([https://your-app-name.streamlit.app](https://swarm-bench-cnxb5uqh4yfukisc6tsbc8.streamlit.app/))**
+**👉 [Launch SwarmBench on Streamlit]((https://swarm-bench-cnxb5uqh4yfukisc6tsbc8.streamlit.app/))**
 
 No setup required — runs entirely in the browser.
 
